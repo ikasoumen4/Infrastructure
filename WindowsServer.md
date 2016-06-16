@@ -101,3 +101,10 @@ WSUS上のIIS設定を変更することで、ダウンロード応答側（サ�
  # bandwidth(帯域) management
 
 
+Windows PreInstall Envirnoment(Windows PE)
+Windowsをインストールするための環境。
+ライブＣＤ環境
+
+よく耳にするプレインストール状態とは異なる。
+
+
