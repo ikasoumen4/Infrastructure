@@ -6,7 +6,6 @@
 
 
 # Windows Server Update Service
-# 近藤さんの要件
 
 # WSUS
 
@@ -94,12 +93,6 @@ WSUS上のIIS設定を変更することで、ダウンロード応答側（サ�
 
 
 
-5s-ZJm&y7Su
-
-
-
-
-
 //ネットワーク負荷分散のためのＷＳＵＳを構成します。
 //データベース　インスタンスごとにフロントエンドＷＳＵＳサーバの最大数は４です。
 
@@ -108,5 +101,3 @@ WSUS上のIIS設定を変更することで、ダウンロード応答側（サ�
  # bandwidth(帯域) management
 
 
-
-<span style="padding-left: 2em;">パブリック DNS: ec2-54-199-167-124.ap-northeast-1.compute.amazonaws.com</span>
