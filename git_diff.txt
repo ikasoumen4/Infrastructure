@@ -1,0 +1,5 @@
+http://qiita.com/kobake@github/items/fb317b4fdacad718a4b2
+
+git windiff
+git windiff HEAD~~~ HEAD~
+git winmerge
